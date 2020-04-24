@@ -1,0 +1,710 @@
+TABLE
+0,1
+"EXCEL"
+VECTORS
+0,87
+""
+TUPLES
+0,3
+""
+DATA
+0,0
+""
+-1,0
+BOT
+1,0
+"Mesa1LuzEmergencia"
+1,0
+"A       0.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1LuzRojaEmergencia"
+1,0
+"A       0.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1LuzManuAuto"
+1,0
+"A       1.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1LuzTrabajo"
+1,0
+"A       1.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1LuzAmarillaAdv"
+1,0
+"A       1.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1LuzVerdeTrabajo"
+1,0
+"A       1.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1MotorMesaRetroceso"
+1,0
+"A       2.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1MotorMesaAvance"
+1,0
+"A       2.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LuzEmergencia"
+1,0
+"A       3.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LuzRojaEmergencia"
+1,0
+"A       3.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LuzTrabajo"
+1,0
+"A       4.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LuzManuAuto"
+1,0
+"A       4.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LuzAmarillaAdv"
+1,0
+"A       4.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LuzVerdeTrabajo"
+1,0
+"A       4.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2MotorMesaRetroceso"
+1,0
+"A       5.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2MotorMesaAvance"
+1,0
+"A       5.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManElectroDerecha"
+1,0
+"A       8.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManElectroIzquierda"
+1,0
+"A       8.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManElectroAbajo"
+1,0
+"A       8.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManElectroArriba"
+1,0
+"A       8.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManElectroAbre"
+1,0
+"A       8.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManElectroCierra"
+1,0
+"A       8.5"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzEmergencia"
+1,0
+"A      6.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzRojaEmergenci"
+1,0
+"A      6.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzManuAuto"
+1,0
+"A      7.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzCiclo"
+1,0
+"A      7.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzReposo"
+1,0
+"A      7.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzTrabajo"
+1,0
+"A      7.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzAmarillaAdv"
+1,0
+"A      7.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLuzVerdeTrabajo"
+1,0
+"A      7.5"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1BarreraDerecha"
+1,0
+"E       0.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1BarreraIzquierda"
+1,0
+"E       0.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1PulsadorEmergencia"
+1,0
+"E       0.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1Guardamotor"
+1,0
+"E       0.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1ContactorK2Seg"
+1,0
+"E       0.5"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1FusibleSensores"
+1,0
+"E       0.6"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1FusibleElectrov"
+1,0
+"E       0.7"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1BotonReset"
+1,0
+"E       1.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1LlaveManuAuto"
+1,0
+"E       1.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1BotonComienzo"
+1,0
+"E       1.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1BotonAvance"
+1,0
+"E       1.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1BotonRetroceso"
+1,0
+"E       1.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1SensorComienzo"
+1,0
+"E       2.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1Sensor Final"
+1,0
+"E       2.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1ContactorK1Seg"
+1,0
+"E       2.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1ContactorK2"
+1,0
+"E       2.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa1ContactorK1"
+1,0
+"E       2.7"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2PulsadorEmergencia"
+1,0
+"E       3.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2BarreraDerecha"
+1,0
+"E       3.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2BarreraIzquierda"
+1,0
+"E       3.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2Guardamotor"
+1,0
+"E       3.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2FusibleSensores"
+1,0
+"E       3.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2FusibleEleval"
+1,0
+"E       3.5"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2ContactorK1Seg"
+1,0
+"E       3.6"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2ContactorK2Seg"
+1,0
+"E       3.7"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2BotonReset"
+1,0
+"E       4.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2BotonComienzo"
+1,0
+"E       4.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2BotonAvance"
+1,0
+"E       4.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2BotonRetroceso"
+1,0
+"E       4.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2LlaveManuAuto"
+1,0
+"E       4.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2SensorComienzo"
+1,0
+"E       5.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2Sensor Final"
+1,0
+"E       5.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2ContactorK1"
+1,0
+"E       5.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"Mesa2ContactorK2"
+1,0
+"E       5.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManFusibleElectrovalvula"
+1,0
+"E       6.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManFusibleSensores"
+1,0
+"E       6.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonReset"
+1,0
+"E       7.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonCiclo"
+1,0
+"E       7.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonReposo"
+1,0
+"E       7.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonDerecha"
+1,0
+"E       7.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonIzquierda"
+1,0
+"E       7.5"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonArriba"
+1,0
+"E       7.6"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonAbajo"
+1,0
+"E       7.7"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonAbre"
+1,0
+"E       8.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManBotonCierra"
+1,0
+"E       8.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorPresencia"
+1,0
+"E       9.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorCierra"
+1,0
+"E       9.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorAbre"
+1,0
+"E       9.2"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorAbajo"
+1,0
+"E       9.3"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorArriba"
+1,0
+"E       9.4"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorIzquierda"
+1,0
+"E       9.5"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorDerecha"
+1,0
+"E       9.6"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManSensorPresion"
+1,0
+"E       9.7"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManPulsadorEmergencia"
+1,0
+"E      6.0"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"ManLlaveManuAuto"
+1,0
+"E      7.1"
+1,0
+"BOOL"
+-1,0
+BOT
+1,0
+"mov_ 2 p"
+1,0
+"FB    100"
+1,0
+"FB    100"
+-1,0
+BOT
+1,0
+"mov_mot"
+1,0
+"FB    200"
+1,0
+"FB    200"
+-1,0
+EOD
